@@ -16,3 +16,6 @@ png(filename="plot1.png",width = 480, height = 480)
 hist(global, col="red", main="Global Active Power", xlab="Global Active Power (kilowatts)")
 #close device to free resources
 dev.off()
+
+
+#DONE

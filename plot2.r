@@ -16,3 +16,5 @@ png(filename="plot2.png",width = 480, height = 480)
 plot(data$CombDate,global, type="l", xlab="", ylab="Global Active Power (kilowatts)")
 #close device to free resources
 dev.off()
+
+#DONE
