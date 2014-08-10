@@ -37,3 +37,5 @@ plot(data$CombDate,reactive, type="l",lwd=0.01 ,xlab="datetime", ylab="Global_re
 
 #close device to free resources
 dev.off()
+
+#DONE
